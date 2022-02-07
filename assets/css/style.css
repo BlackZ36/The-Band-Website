@@ -111,7 +111,7 @@ quan sát những đặc điểm trước khi code
     margin-top: 46px;
     padding-top: 50%;
     background-color: #333;
-    background: url("./assets/img/slider-img-1.jpg") top center / cover no-repeat;
+    background: url("/assets/img/slider-img-1.jpg") top center / cover no-repeat;
 }
 
 #slider .heading-1{
